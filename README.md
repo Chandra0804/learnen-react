@@ -116,7 +116,7 @@ Enjoy your learning!
 🔥 Streaks! <br>
 
 # Github Clone Link
-(https://github.com/Chandra0804/FSD-Group-Project.git)
+(https://github.com/Chandra0804/learnen-react)
 
 # GitHub Repo Link
-[Click here](https://github.com/Chandra0804/FSD-Group-Project)
+[Click here](https://github.com/Chandra0804/learnen-react)
